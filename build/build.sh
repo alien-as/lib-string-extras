@@ -1,0 +1,1 @@
+acompc --include-sources=src -o=string-extras.swc
